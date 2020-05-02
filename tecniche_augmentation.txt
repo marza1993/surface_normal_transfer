@@ -1,0 +1,4 @@
+- rumore
+- filtraggio (passa-basso, ...)
+- permutazione RGB
+- ribaltamento su asse verticale
